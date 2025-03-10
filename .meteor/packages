@@ -20,5 +20,5 @@ hot-module-replacement@0.5.4  # Update client in development without reloading t
 static-html@1.4.0             # Define static page content in .html files
 zodern:types            # Pull in type declarations from other Meteor packages
 tmeasday:check-npm-versions
-session
+session@1.2.2
 jorgenvatle:vite
